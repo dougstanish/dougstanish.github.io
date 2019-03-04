@@ -1,0 +1,9 @@
+body {
+  margin: 0 auto;
+  max-width: 40%;
+  font-family: sans-serif;
+  padding: 60px;
+  line-height: 1.2;
+  font-size: 24px;
+  color: #454545;
+}
